@@ -1,1 +1,1 @@
-# reponsivo-alura-2024
+# responsivo-alura-2024
